@@ -50,7 +50,7 @@ This GitHub profile is the place where I share my evolution, my projects, and my
 <img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
 <img src="https://matplotlib.org/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
 <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" title="Excel" alt="Excel" width="50" height="50" style="background-color:white; border-radius:8px; padding:5px;"/>&nbsp;
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
 
 <!-- Deploy / Cloud -->
